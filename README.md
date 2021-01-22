@@ -3,7 +3,7 @@ Install panther launcher, a cool application menu on your Raspberry Pi
 
 ## Installation
 ```
-wget https://github.com/techcoder20/RPIPantherLauncherInstaller/blob/main/panther-launcher_armhf.deb
+wget https://github.com/techcoder20/RPIPantherLauncherInstaller/blob/main/panther-launcher_armhf.deb?raw=true
 sudo apt install -y --fix-missing ./panther-launcher_armhf.deb
 ```
 ## Uninstallation
