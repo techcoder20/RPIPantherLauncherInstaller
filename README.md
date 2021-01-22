@@ -7,4 +7,6 @@ wget https://github.com/techcoder20/RPIPantherLauncherInstaller/blob/main/panthe
 sudo apt install -y --fix-missing ./panther-launcher_armhf.deb
 ```
 ## Uninstallation
-`sudo apt -y purge panther-launcher`
+```
+sudo apt -y purge panther-launcher
+```
